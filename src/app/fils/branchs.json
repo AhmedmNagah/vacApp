@@ -1,0 +1,12 @@
+[
+    {"id":1,
+    "branchName":"City Stars",
+    "closeAt":"10:00 PM",
+    "openAt":"08:00 AM"},
+
+    {"id":2,"branchName":"Al-Ahly Club","closeAt":"10:00 PM","openAt":"10:00 AM"},
+    {"id":3,"branchName":" Cairo Festival City Mall","closeAt":"10:00 PM","openAt":"10:00 AM"},
+    {"id":4,"branchName":"Mall of Egypt","closeAt":"10:00 PM","openAt":"10:00 AM"},
+    {"id":5,"branchName":"Royal Tulip","closeAt":"10:00 PM","openAt":"10:00 AM"},
+    {"id":6,"branchName":"Maadi","closeAt":"10:00 PM","openAt":"11:00 AM"}
+]
