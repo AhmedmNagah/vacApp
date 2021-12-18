@@ -1,0 +1,16 @@
+[
+    {"id":1,"expiryDate":"2022-01-17T00:00:00","qty":2,"branchId":1,"vaccineid":1},
+    {"id":2,"expiryDate":"2023-01-17T00:00:00","qty":2,"branchId":1,"vaccineid":2},
+    {"id":3,"expiryDate":"2022-01-17T00:00:00","qty":2,"branchId":2,"vaccineid":1},
+    {"id":4,"expiryDate":"2023-01-17T00:00:00","qty":2,"branchId":2,"vaccineid":2},
+    {"id":5,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":2,"vaccineid":3},
+    {"id":6,"expiryDate":"2022-01-17T00:00:00","qty":2,"branchId":3,"vaccineid":1},
+    {"id":7,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":3,"vaccineid":4},
+    {"id":8,"expiryDate":"2022-01-17T00:00:00","qty":2,"branchId":4,"vaccineid":5},
+    {"id":9,"expiryDate":"2023-01-17T00:00:00","qty":2,"branchId":5,"vaccineid":6},
+    {"id":10,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":5,"vaccineid":3},
+    {"id":11,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":5,"vaccineid":4},
+    {"id":12,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":5,"vaccineid":11},
+    {"id":13,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":5,"vaccineid":12},
+    {"id":14,"expiryDate":"2022-08-01T00:00:00","qty":2,"branchId":5,"vaccineid":7}
+]
